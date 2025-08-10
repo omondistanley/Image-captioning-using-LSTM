@@ -15,7 +15,8 @@ The goal of this project is to generate captions for images by training an LSTM-
 ## Project Structure
 
 
-.
+'''
+
 ├── lstm_flickr_caption_generator_torch.ipynb   # Main Jupyter notebook
 ├── encoded_images_train.pt                     # Precomputed image encodings (train)
 ├── data/
@@ -26,6 +27,9 @@ The goal of this project is to generate captions for images by training an LSTM-
 │   ├── Flickr8k_Dataset/
 │   └── Flickr8k_text/
 ├── data.zip / data.tar.
+
+
+'''
 ## Setup & Requirements
 
 - Python 3.9+
